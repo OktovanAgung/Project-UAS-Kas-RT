@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div class="container p-5">
     <a href="<?= base_url('warga');?>" class="btn btn-secondary mb-2">Kembali</a>
     <div class="card">
