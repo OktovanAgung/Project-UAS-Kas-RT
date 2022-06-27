@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div class="container pt-5">    
     <a href="<?= base_url('warga/tambah');?>" class="btn btn-success mb-2">Tambah Data</a>
     <div class="card">
