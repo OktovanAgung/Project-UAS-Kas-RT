@@ -12,7 +12,7 @@
   <body>
     <nav class="navbar navbar-expand-sm navbar-dark bg-info">
         <div class="container">
-            <a class="navbar-brand" href="<?= base_url();?>">Data Warga RT 01 RW 03</a>
+            <a class="navbar-brand" href="<?= base_url();?>">Data Warga RT 02 RW 04<br>Kelurahan Teyvat</a>
             <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
                 aria-expanded="false" aria-label="Toggle navigation"></button>
 
