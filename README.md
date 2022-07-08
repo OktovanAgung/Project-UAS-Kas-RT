@@ -8,6 +8,6 @@
 # Link
 ## [Video Dokumentasi](https://youtu.be/PrW8x6spSm8)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/PrW8x6spSm8)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PrW8x6spSm8/0.jpg)](https://youtu.be/PrW8x6spSm8)
 
 ## [Demo Program](http://uas-kasrt.42web.io/?i=1)
